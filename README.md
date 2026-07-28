@@ -1,6 +1,6 @@
 # Bloody Bank Managment System
 
-## Try it Out
+## Live  Link to try out
 
 **URL**:(https://bloodybbms.vercel.app/)
 
